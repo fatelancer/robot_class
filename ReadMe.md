@@ -155,7 +155,7 @@ import javax.swing.*;
 ```
 
 ###2.3 UML类图
-
+![](https://github.com/fatelancer/robot_class/blob/master/src/Class_1/uml.png)
 
 
 #抽象类
@@ -461,5 +461,5 @@ public class MainProgram {
 }
 ```
 ##4. UML图
-
+![](https://github.com/fatelancer/robot_class/blob/master/src/Program/diagram.png)
 
