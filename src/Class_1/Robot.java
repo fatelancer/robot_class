@@ -1,6 +1,5 @@
 package Class_1;
 
-import sun.plugin2.message.JavaObjectOpMessage;
 
 import javax.swing.*;
 
