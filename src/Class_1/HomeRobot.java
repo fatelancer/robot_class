@@ -7,8 +7,8 @@ import javax.swing.*;
  */
  class HomeRobot extends Robot{
     private int skill_count;
-    protected String r_id;
-    protected int speed;
+    //protected String r_id;
+    //protected int speed;
     //private double temp;
 
     public HomeRobot(){

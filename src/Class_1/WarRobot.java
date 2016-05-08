@@ -7,8 +7,8 @@ import javax.swing.*;
  */
  class WarRobot extends Robot {
     private int weapon_count;
-    private String r_id;
-    private int speed;
+    //private String r_id;
+    //private int speed;
     //private double temp;
 
     public WarRobot() {
