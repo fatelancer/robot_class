@@ -37,6 +37,9 @@ public class Robot {
     }
 
     public static void main (String [] args){// 命令行运行输入的参数
-        
+        Robot r1 = new Robot();
+        r1.input("r001", 20, 880);
+        r1.judge();
+        r1.output();
     }
 }
